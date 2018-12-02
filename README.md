@@ -12,6 +12,6 @@ Screenshots:
 You can read the whole documentation/programmer's guide of the project [here]
 
 
-[here]: https://drive.google.com/file/d/1GFKznXijzQwU4wFdarcOtI5NTA2m0089/view?usp=drivesdk
+[here]: https://drive.google.com/file/d/1En1XkDvnKayUN1CPwXyed70Uli4QwCkU/view
 [logo]: sample_screenshot.png
 [logo2]: game_over.png

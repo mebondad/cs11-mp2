@@ -13,5 +13,5 @@ You can read the whole documentation/programmer's guide of the project [here]
 
 
 [here]: https://drive.google.com/file/d/1GFKznXijzQwU4wFdarcOtI5NTA2m0089/view?usp=drivesdk
-[logo]: https://github.com/pseudoneem/cs11-mp2/blob/master/sample_screenshot.png
-[logo2]: https://github.com/pseudoneem/cs11-mp2/blob/master/game_over.png
+[logo]: sample_screenshot.png
+[logo2]: game_over.png
